@@ -278,10 +278,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![WhatsApp Image 2023-03-27 at 20 30 50](https://user-images.githubusercontent.com/119559316/227986451-7f4e087c-1ee4-4e61-82d4-3657e2ddd0a4.jpg)
 
+![mics](https://github.com/kancharlaNarmadha/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119559316/b030defe-e92a-4558-bb7d-b0a1924dcb64)
 
- 
  
  
  
